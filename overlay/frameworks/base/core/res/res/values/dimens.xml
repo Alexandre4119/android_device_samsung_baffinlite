@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="navigation_bar_height">38dp</dimen>
+    <dimen name="navigation_bar_height_landscape">38dp</dimen>
+    <dimen name="navigation_bar_width">38dp</dimen>
+</resources>
